@@ -13,7 +13,7 @@ function carregar() {
         //BOA TARDE
         document.body.style.background = '#b17c6a'
         img.src = 'imagens/foto-tarde.png'
-    } else {
+    } else  {
         //BOA NOITE
         img.src = 'imagens/foto-noite.png'
         document.body.style.background = '#243b4a'
